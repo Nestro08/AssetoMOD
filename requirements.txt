@@ -1,0 +1,13 @@
+matplotlib==3.10.9
+numpy==1.26.4
+onnxruntime==1.18.1
+openpyxl==3.1.5
+pandas==3.0.3
+piper-tts==1.8.0
+pyarrow==24.0.0
+pyinstaller==6.22.3
+PyQt5==5.15.11
+pyttsx3==2.99
+pywin32==312
+sounddevice==0.5.5
+vosk==0.3.45

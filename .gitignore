@@ -1,0 +1,20 @@
+# Entorno de Python y compilados
+venv/
+__pycache__/
+*.pyc
+
+# Ejecutable (se regenera con construir_exe.bat)
+dist/
+build/
+*.spec
+
+# Modelos de voz: pesan demasiado; ver "Instalación desde GitHub" en el LEEME
+model/
+
+# Datos personales: telemetría grabada, récords, ajustes y registro
+sesiones/
+datos/
+
+# Temporales
+*.tmp.*
+desktop.ini
